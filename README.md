@@ -5,7 +5,7 @@ Full-Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Firebase](http://portfolio-drazakk.web.app/)
+* 🖥️  See my portfolio at [Drazakk Portfolio](http://portfolio-drazakk.web.app/)
 * ✉️  You can contact me at [deepanshu.3147@gmail.xom](mailto:deepanshu.3147@gmail.xom)
 * 🧠  I'm learning Next.js and Tailwind CSS
 * 🤝  I'm open to collaborating on interesting projects as a Web Developer and Designer.
